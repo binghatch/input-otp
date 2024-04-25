@@ -7,11 +7,11 @@
   "homepage": "https://input-otp.rodz.dev/",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/guilhermerodz/input-otp.git",
+    "url": "git+https://github.com/binghatch/input-otp.git",
     "directory": "packages/input-otp"
   },
   "bugs": {
-    "url": "https://github.com/guilhermerodz/input-otp/issues"
+    "url": "https://github.com/binghatch/input-otp/issues"
   },
   "keywords": [
     "react",
